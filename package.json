@@ -74,7 +74,7 @@
     "@types/ember__test": "~4.0.0",
     "@types/ember-testing-helpers": "^0.0.4",
     "@types/rsvp": "^4.0.4",
-    "@typescript-eslint/eslint-plugin": "^4.29.0",
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.29.0",
     "broccoli-babel-preset-typescript": "^1.0.1",
     "broccoli-merge-trees": "^4.2.0",
