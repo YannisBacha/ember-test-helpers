@@ -100,7 +100,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "expect-type": "^0.13.0",
     "fs-extra": "^10.0.0",
-    "latest-version": "^5.0.0",
+    "latest-version": "^7.0.0",
     "loader.js": "^4.7.0",
     "npm-run-all": "^4.1.5",
     "pretender": "^3.4.7",
